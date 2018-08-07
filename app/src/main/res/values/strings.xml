@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Tourtamilnadu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_Attractions">Attractions</string>
+    <string name="category_food">Food</string>
+    <string name="category_Natural">Natural</string>
+    <string name="category_Temple">Temple</string>
+    <string name="mapUrl">http://maps.google.com/maps?saddr=</string>
+    <string name="attract1name">Science centre</string>
+    <string name="attract2name">kalakad mundanthurai tiger sanctuary</string>
+    <string name="attract3name">manimutharu hills</string>
+    <string name="attract4name">manjolai hills</string>
+    <string name="attract5name">Sengottai</string>
+    <string name="attract6name">Sundarapandiyapuram</string>
+    <string name="attract7name">Ambaiarch</string>
+    <string name="attract1Add">roundana main road,tirunelveli</string>
+    <string name="attract2Add">mundanthurai,tirunelveli</string>
+    <string name="attract3Add">manimutharu,tirunelveli</string>
+    <string name="attract4Add">manjolai,tirunelveli</string>
+    <string name="attract5Add">sengottai,tirunelveli</string>
+    <string name="attract6Add">Sundarapandiyapuram,tirunelveli</string>
+    <string name="attract7Add">Ambasamudram, tirunelveli</string>
+    <string name="temple1Name">Ammayapparkovil</string>
+    <string name="temple2Name">Tenkasiperiyakovil</string>
+    <string name="temple3Name">Nellaiperiyakovil</string>
+    <string name="temple4Name">Kasiviswanatharkovil</string>
+    <string name="temple5Name">Akkathangachikovil</string>
+    <string name="temple6Name">Aanchineyarkovil</string>
+    <string name="temple7Name">Suyambulingaswamykovil</string>
+    <string name="temple1Add">Main road,Ambasamudram</string>
+    <string name="temple2Add">Kovil street,tenkasi</string>
+    <string name="temple3Add">Town road,Nellai</string>
+    <string name="temple4Add">Aathankarasalai,Ambasamudram</string>
+    <string name="temple5Add">Pookadai road,Ambasamudram</string>
+    <string name="temple6Add">Kadayanalur road,Krishnapuram</string>
+    <string name="temple7Add">Pettai road,tirunelveli</string>
+    <string name="natural1Name">Agasthiyar falls</string>
+    <string name="natural2Name">Aiyndaruvi</string>
+    <string name="natural3Name">Papanasam falls</string>
+    <string name="natural4Name">Thamirabaraniriver</string>
+    <string name="natural5Name">Manimutharu falls</string>
+    <string name="natural6Name">karayar dam</string>
+    <string name="natural7Name">Courtallam</string>
+    <string name="natural1Add">Agasthiyarpatti,tirunelveli</string>
+    <string name="natural2Add">Courtallam falls,tenkasi</string>
+    <string name="natural3Add">Papanasam,tirunelveli</string>
+    <string name="natural4Add">Aathankarasalai,Ambasamudram</string>
+    <string name="natural5Add">Manimutharu,tirunelveli</string>
+    <string name="natural6Add">Karayar,tirunelveli</string>
+    <string name="natural7Add">Courtallam,tirunelveli</string>
+    <string name="f1">Hotel Bhavanai</string>
+    <string name="f2">Hotel aryaas</string>
+    <string name="f3">Hotel Gowrishankar</string>
+    <string name="f4">Hotel afnapark</string>
+    <string name="f5">Hotel MNHroyalpark</string>
+    <string name="f6">Hotel rajapalace</string>
+    <string name="f7">Hotel sriramresidency</string>
+    <string name="fAdd1">rangarajan street,tenkasi</string>
+    <string name="fAdd2">ezhtha nagar</string>
+    <string name="fAdd3">athankara salai,ambai</string>
+    <string name="fAdd4">senkaottai road,tirunelveli</string>
+    <string name="fAdd5">MNH road,tirunelveli</string>
+    <string name="fAdd6">rajadurai road,tirunelveli</string>
+    <string name="fAdd7">tuticorin road,tirunelveli</string>
+</resources>
